@@ -1,0 +1,9 @@
+
+preInstalls:
+
+appConfig:
+  name: grafana
+  type: helm
+  resourcePath: charts/grafana
+
+svcConfigs:
